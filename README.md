@@ -8,8 +8,8 @@ Big shout-out to <a href="https://github.com/SleepyCatHey">SleepyCatHey</a> for 
 
 ---
 
-🎨 **Theme:** [Catppuccin Mocha](#https://github.com/catppuccin)  
-🖋️ **Font:** [JetBrainsMono Nerd Font](#https://www.jetbrains.com/de-de/lp/mono/)
+🎨 **Theme:** [Catppuccin Mocha](https://github.com/catppuccin)  
+🖋️ **Font:** [JetBrainsMono Nerd Font](https://www.jetbrains.com/de-de/lp/mono/)
 
 ---
 
