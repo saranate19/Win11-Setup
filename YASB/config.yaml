@@ -42,8 +42,6 @@ bars:
         ]
       right: [
           "media",
-          "language",
-          "wallpapers",
           "memory",
           "disk",
           "weather",
