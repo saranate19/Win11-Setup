@@ -17,15 +17,12 @@ Big shout-out to <a href="https://github.com/SleepyCatHey">SleepyCatHey</a> for 
 
 ## 📏 YASB
 
-> [!NOTE]  
-> Some parts of my config need your own setup — like the API key for the weather widget or the path to your wallpaper folder.
 
 YASB (Yet Another Status Bar) is a customizable status bar for Windows written in Python. I use it to show system stats, media info, and some custom widgets.
 
 **⚙️ Setup**
 - Download and install [**YASB**](https://github.com/amnweb/yasb)
-- Copy the files from my config folder  
-- Adjust your API keys and wallpaper path  
+- Copy the files from my config folder (styles.css and config.yaml)
 - Restart YASB
 
 ---
@@ -33,7 +30,7 @@ YASB (Yet Another Status Bar) is a customizable status bar for Windows written i
 ## 🪟 GlazeWM + YASB
 
 > [!NOTE]  
-> My setup uses GlazeWM with YASB. If you want to use Zebar instead, you’ll need to re-add the two lines I’ve removed in the config.
+> My setup uses GlazeWM with YASB. 
 
 GlazeWM is a tiling window manager for Windows — it keeps windows organized and keyboard-friendly. I use it together with YASB for a seamless layout and bar integration.
 
@@ -46,27 +43,34 @@ GlazeWM is a tiling window manager for Windows — it keeps windows organized an
 
 ## 🦅 Windhawk
 
+Windhawk is a mod manager for Windows that lets you tweak system elements without heavy tools. I use it for subtle UI adjustments — mainly the taskbar and system tray.
+
 > [!NOTE]  
 > My taskbar mod hides the Start menu and network icon by default.  
 > If you prefer to keep them visible, check out  
 > [this guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide).
 
-Windhawk is a mod manager for Windows that lets you tweak system elements without heavy tools. I use it for subtle UI adjustments — mainly the taskbar and system tray.
-
 ---
 
 ## 👾 Windows Power Toys
 
-Fastfetch is a fast, neofetch-style tool for showing system info. Combined with the Windows Terminal and a clean PowerShell profile, it creates a lightweight dashboard when opening a new shell.
+PowerToys is a collection of Microsoft utilities for power users.
+I mainly use it for PowerToys Run — its Spotlight-style search and command palette that makes launching apps, running commands, and finding files way quicker than the default Windows search.
 
 **⚙️ Setup**
-- Install [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch/releases)
-- Copy my PowerShell profile, terminal settings, and Fastfetch config  
-- Place the Fastfetch config and ASCII art in  
-  `C:\Users\<your-username>\.config\fastfetch`
-- Update any file paths or usernames in the configs  
-- Restart Terminal
+- Install [**Power Toys**](https://github.com/microsoft/PowerToys/releases/tag/v0.95.1)
+- Activate the Tools you like.
 
 ---
 
-This setup is built to stay clean — minimal visuals, fast workflow, and a consistent aesthetic across the system.
+## 🎨 Browser Stylus
+
+I myself like to use Firefox based browsers like Zen.
+To have the Catppuccin Mocha design there use this addon to overwrite CSS files for hundrets of pre made sites.
+
+**⚙️ Setup**
+- Install [**Stylus**](https://addons.mozilla.org/de/firefox/addon/styl-us/)
+- Download the [**Catppuccin Port**](https://userstyles.catppuccin.com/getting-started/usage/)
+- Import all the userstyles into Stylus
+
+---
