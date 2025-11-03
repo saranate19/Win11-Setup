@@ -8,8 +8,8 @@ Big shout-out to <a href="https://github.com/SleepyCatHey">SleepyCatHey</a> for 
 
 ---
 
-🎨 **Theme:** [Catppuccin Mocha](#catppuccinmocha)  
-🖋️ **Font:** [JetBrainsMono Nerd Font](#jetbrainsmononerdfont)
+🎨 **Theme:** [Catppuccin Mocha](#https://github.com/catppuccin)  
+🖋️ **Font:** [JetBrainsMono Nerd Font](#https://www.jetbrains.com/de-de/lp/mono/)
 
 ---
 
@@ -54,3 +54,19 @@ GlazeWM is a tiling window manager for Windows — it keeps windows organized an
 Windhawk is a mod manager for Windows that lets you tweak system elements without heavy tools. I use it for subtle UI adjustments — mainly the taskbar and system tray.
 
 ---
+
+## 👾 Windows Power Toys
+
+Fastfetch is a fast, neofetch-style tool for showing system info. Combined with the Windows Terminal and a clean PowerShell profile, it creates a lightweight dashboard when opening a new shell.
+
+**⚙️ Setup**
+- Install [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch/releases)
+- Copy my PowerShell profile, terminal settings, and Fastfetch config  
+- Place the Fastfetch config and ASCII art in  
+  `C:\Users\<your-username>\.config\fastfetch`
+- Update any file paths or usernames in the configs  
+- Restart Terminal
+
+---
+
+This setup is built to stay clean — minimal visuals, fast workflow, and a consistent aesthetic across the system.
